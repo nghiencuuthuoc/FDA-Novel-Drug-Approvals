@@ -15,6 +15,6 @@ See more: https://twitter.com/nghiencuuthuoc | https://facebook.com/nghiencuuthu
 https://www.fda.gov/drugs/development-approval-process-drugs/new-drugs-fda-cders-new-molecular-entities-and-new-therapeutic-biological-products
 
 
-![](images/nghiencuuthuoc-FDA-Novel-Drug-Approvals-nct-1.jpg)
+# ![](images/nghiencuuthuoc-FDA-Novel-Drug-Approvals-nct-1.jpg)
 
 ![](images/nghiencuuthuoc-FDA-Novel-Drug-Approvals-nct-2.png)
